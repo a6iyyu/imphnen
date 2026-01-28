@@ -1,0 +1,35 @@
+{
+  "[go]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always",
+      "source.organizeImports": "always",
+    },
+    "editor.defaultFormatter": "golang.go",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.tabSize": 4,
+  },
+  "[json]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.tabSize": 2,
+    "editor.quickSuggestions": {
+      "comments": false,
+      "other": true,
+      "strings": true,
+    },
+  },
+  "[yaml]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.autoIndent": "advanced",
+    "editor.defaultColorDecorators": "never",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "other": "on",
+      "strings": "on",
+    },
+    "prettier.singleQuote": false,
+    "prettier.tabWidth": 2,
+  },
+}

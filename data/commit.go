@@ -1,0 +1,25 @@
+package data
+
+var CommitMessages = []string{
+	"build: Compiling... please wait",
+	"chore: AFK, touching real clouds",
+	"chore: Merging my dreams into reality",
+	"chore: Syncing with proprietary codebase",
+	"chore: Touching grass 🌿",
+	"ci: I am not a robot, trust me",
+	"ci: Waiting for pipeline to finish forever",
+	"docs: Reading documentation (aka watching YouTube tutorials)",
+	"feat: Contributing to a confidential NDA project",
+	"feat: I actually coded today, but in a private repo 🤫",
+	"feat: Pushed code to production (my brain)",
+	"fix: Debugging my life choices",
+	"fix: Fixed a bug in my sleep schedule",
+	"perf: Optimized my coffee intake",
+	"perf: Re-indexing database shards in the cloud",
+	"refactor: Deleted code because less is more",
+	"refactor: Taking a mental health day",
+	"style: CSS is hard, I quit for today",
+	"style: Making things look pretty... in my imagination",
+	"wip: The code is in another castle (private repo)",
+	"wip: Thinking about coding counts as coding, right?",
+}
